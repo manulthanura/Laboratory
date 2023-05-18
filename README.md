@@ -8,12 +8,25 @@ This repository is a valuable resource for students who are taking MATLAB course
 
 Here are some of the benefits of using this repository:
 
-The codes are well-organized and easy to find.
-The codes are written in a clear and concise manner.
-The codes are well-commented to make them easy to understand.
-The codes are tested to ensure that they work correctly.
+ - The codes are well-organized and easy to find.
+ - The codes are written in a clear and concise manner.
+ - The codes are well-commented to make them easy to understand.
+ - The codes are tested to ensure that they work correctly.
 
+----------
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+----------
+
+## Support
 
 I hope this repository is helpful to you! **Give my repo a star :star:**
+
+[![MIT License](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/manulthanura)
+
 
 By [manulthanura](https://github.com/manulthanura)

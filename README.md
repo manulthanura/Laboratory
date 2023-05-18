@@ -14,4 +14,6 @@ The codes are well-commented to make them easy to understand.
 The codes are tested to ensure that they work correctly.
 
 
-I hope this repository is helpful to you!
+I hope this repository is helpful to you! **Give my repo a star :star:**
+
+By [manulthanura](https://github.com/manulthanura)

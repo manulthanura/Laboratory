@@ -11,7 +11,7 @@ msg = [0 0 1 1] % 4 bit message
 code = mod(msg*G,2) % 7 bit codeword
 code(n+1-2) = ~code(n+1-2); % error in 2nd bit
 recd = code % received codeword
-syndrome = mod(recd*H',2)
+syndrome = mod(recd*H',2) % syndrome
 find = 0;
 for ii = 1:n
     if ~find

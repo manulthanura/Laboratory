@@ -3,8 +3,8 @@
 % Description : Hamming Code
 
 n = 7;
-k = 4;
-A = [ 1 1 1;1 1 0;1 0 1;0 1 1];
+k = 4;  % n = 2^m-1, k = n-m
+A = [ 1 1 1;1 1 0;1 0 1;0 1 1]; % parity check matrix
 G = [eye(k) A] % generator matrix
 H = [A' eye(n-k)] % parity check matrix
 msg = [0 0 1 1] % 4 bit message

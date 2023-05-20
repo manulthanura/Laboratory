@@ -5,7 +5,7 @@
 n = 7;
 k = 4;
 A = [ 1 1 1;1 1 0;1 0 1;0 1 1];
-G = [eye(k) A]
+G = [eye(k) A] % generator matrix
 H = [A' eye(n-k)] % parity check matrix
 msg = [0 0 1 1] % 4 bit message
 code = mod(msg*G,2) % 7 bit codeword

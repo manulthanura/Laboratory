@@ -6,12 +6,11 @@ This repository contains MATLAB codes that are used for academic lab activities.
 
 This repository is a valuable resource for students who are taking MATLAB courses or who are using MATLAB for academic research. The codes can be used to learn how to use MATLAB, to complete lab assignments, and to conduct research.
 
-Here are some of the benefits of using this repository:
+----------
+## Table of Contents
 
- - The codes are well-organized and easy to find.
- - The codes are written in a clear and concise manner.
- - The codes are well-commented to make them easy to understand.
- - The codes are tested to ensure that they work correctly.
+01. [Anlysis of CRC](./Analysis%20of%20Cyclic%20Redundancy%20Check%20(CRC))
+02. [Hamming Code](./Hamming%20Code/HammingCode.m)
 
 ----------
 

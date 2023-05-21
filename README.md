@@ -9,6 +9,8 @@ This repository is a valuable resource for students who are taking MATLAB course
 ----------
 ## Table of Contents
 
+01. [Anlysis of CRC](./Analysis%20of%20Cyclic%20Redundancy%20Check%20(CRC))
+02. [Hamming Code](./Hamming%20Code/HammingCode.m)
 
 ----------
 

@@ -6,6 +6,7 @@ This repository contains MATLAB codes that are used for academic lab activities.
 
 This repository is a valuable resource for students who are taking MATLAB courses or who are using MATLAB for academic research. The codes can be used to learn how to use MATLAB, to complete lab assignments, and to conduct research.
 
+----------
 
 
 ----------

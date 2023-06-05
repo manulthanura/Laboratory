@@ -6,6 +6,8 @@ This repository contains MATLAB codes that are used for academic lab activities.
 
 This repository is a valuable resource for students who are taking MATLAB courses or who are using MATLAB for academic research. The codes can be used to learn how to use MATLAB, to complete lab assignments, and to conduct research.
 
+![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/Laboratory) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Laboratory)
+
 ----------
 ## Table of Contents
 
@@ -18,8 +20,6 @@ This repository is a valuable resource for students who are taking MATLAB course
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
-
-![GitHub contributors](https://img.shields.io/github/contributors/manulthanura/Laboratory) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Laboratory)
 
 ----------
 

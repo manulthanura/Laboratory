@@ -16,7 +16,7 @@ This repository is a valuable resource for students who are taking MATLAB course
 
 ## Contributing
 
-[<img src="https://github.com/manulthanura.png" width="60px;"/><br /><sub><ahref="https://github.com/manulthanura">manulthanura</a></sub>](https://github.com/manulthanura/Laboratory)
+[<img src="https://github.com/manulthanura.png" width="60px;"/><br /><sub><a href="https://github.com/manulthanura">manulthanura</a></sub>](https://github.com/manulthanura/Laboratory)
 <!-- <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = manulthanura/Laboratory"/>
 </a> -->

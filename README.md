@@ -16,9 +16,10 @@ This repository is a valuable resource for students who are taking MATLAB course
 
 ## Contributing
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+[<img src="https://github.com/manulthanura.png" width="60px;"/><br /><sub><ahref="https://github.com/manulthanura">manulthanura</a></sub>](https://github.com/manulthanura/Laboratory
+<!-- <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = manulthanura/Laboratory"/>
-</a>
+</a> -->
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.

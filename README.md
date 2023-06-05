@@ -24,11 +24,13 @@ This repository is a valuable resource for students who are taking MATLAB course
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
+[GitHub contributors](https://img.shields.io/github/contributors/manulthanura/Laboratory) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Laboratory)
+
 ----------
 
 ## Support
 
-I hope this repository is helpful to you! **Give my repo a star :star:**
+We hope this repository is helpful to you! **Give our repo a star :star:**
 
 [![MIT License](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/manulthanura)
 

@@ -1,0 +1,3 @@
+
+Filter design is an important part of digital signal processing. Filtering is the removal of unwanted frequency components from a signal. The applications of filters are very diverse including audio processing, image processing, telecommunications, etc. Finite impulse response filters are ones’ where
+the length of the impulse response is finite. Here we discuss a non-recursive way of realizing a bandpass filter. Bandpass filters pass the frequency components within a certain range of frequencies and attenuate greatly the frequency components lower and higher than the range.

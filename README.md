@@ -30,5 +30,3 @@ We hope this repository is helpful to you! **Give our repo a star :star:**
 
 [![MIT License](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/manulthanura)
 
-
-By [manulthanura](https://github.com/manulthanura) :smile: [![GitHub followers](https://img.shields.io/github/followers/manulthanura.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/manulthanura)

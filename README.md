@@ -16,6 +16,11 @@ This repository is a valuable resource for students who are taking MATLAB course
 03. [FIR Filter](./Finite%20Impulse%20Response/FIR.md)
 
 
+## License
+
+[Academic Free License v3.0](https://github.com/manulthanura/Laboratory/blob/main/LICENSE.md)
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

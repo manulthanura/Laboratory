@@ -16,12 +16,10 @@ This repository is a valuable resource for students who are taking MATLAB course
 03. [FIR Filter](./Finite%20Impulse%20Response/FIR.md)
 
 
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
-
 
 
 ## Support
@@ -29,4 +27,3 @@ Please make sure to update tests as appropriate.
 We hope this repository is helpful to you! **Give our repo a star :star:**
 
 [![MIT License](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/manulthanura)
-

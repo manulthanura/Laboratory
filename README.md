@@ -19,6 +19,7 @@ This repository is a valuable resource for students who are taking MATLAB course
 ## License
 
 This repository is licensed under [Academic Free License v3.0](https://github.com/manulthanura/Laboratory/blob/main/LICENSE.md)
+
 ![Static Badge](https://img.shields.io/badge/License-Academic_Free_License_v3.0-blue)
 
 ## Contributing

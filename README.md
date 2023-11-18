@@ -14,7 +14,7 @@ This repository is a valuable resource for students who are taking MATLAB course
 01. [Anlysis of CRC](./Analysis%20of%20Cyclic%20Redundancy%20Check%20(CRC))
 02. [Hamming Code](./Hamming%20Code/HammingCode.m)
 03. [FIR Filter](./Finite%20Impulse%20Response/FIR.md)
-04. [Sampling and Reconstruction of Signals]
+04. [Sampling and Reconstruction of Signals](./Sampling%20and%20Reconstruction%20of%20Signals/A01.m)
 
 
 ## License

@@ -15,6 +15,7 @@ This repository is a valuable resource for students who are taking MATLAB course
 02. [Hamming Code](./Hamming%20Code/HammingCode.m)
 03. [FIR Filter](./Finite%20Impulse%20Response/FIR.md)
 04. [Digital Signal Processing](./Digital%20Signal%20Processing/)
+05. [System Analytics](./System%20Analytics/info.md)
 
 
 ## License

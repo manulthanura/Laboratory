@@ -16,17 +16,18 @@
     - [Code 01](./Random%20Number%20Generation/MonteCarlo.m)
     - [Code 02](./Random%20Number%20Generation/MonteCarlo_Vectorized.m) (Vectorized Version)
 
-- 1.3 Generating Discrete Random Variables
+1.3 Generating Discrete Random Variables
 
-1.3.1 The Inverse Transform Method
+- 1.3.1 The Inverse Transform Method
 
-1.3.2 Generating a Poisson Random Variable
+- 1.3.2 Generating a Poisson Random Variable
     - [Code 01](./Random%20Number%20Generation/prv.m)
 
-1.3.3 Generating Binomial Random Variables
-    - [Code 01](./Random%20Number%20Generation/brv.m)
+- 1.3.3 Generating Binomial Random Variables
+    - [Sample code](./Random%20Number%20Generation/brv.m) - Inverse transform algorithm for generating a binomial (n,p) random variable
+    - [Example](./Random%20Number%20Generation/brvEx.m) - Use the inverse transform method to generate 10 binomial random numbers having 0.4 as the probability of success.
 
-- 1.4 Generating Continuous Random Variables
+1.4 Generating Continuous Random Variables
 
 - 1.4.1 The Inverse Transform Algorithm
     - [Code 01](./Random%20Number%20Generation/erv.m)
